@@ -64,7 +64,7 @@
             </div>
             <div class="back">
                 <div id="b2" class="back-content">
-                    <img src="./Birthday/f4.jpg" alt="Babbi" style="width:100%; height: 100%;">
+                    <img src="Birthday/f4.jpg" alt="Babbi" style="width:100%; height: 100%;">
 
                 </div>
             </div>
@@ -158,12 +158,12 @@
          <div id="p4" class="paper">
             <div class="front">
                 <div id="f4" class="front-content">
-            <img src="./Birthday/f5.gif" alt=" Babbi" style="width: 100%; height: 100%;">
+            <img src="Birthday/f5.gif" alt=" Babbi" style="width: 100%; height: 100%;">
                 </div>
             </div>
             <div class="back">
                 <div id="b4" class="back-content">
-                    <img src="./Birthdday/f3.jpg" alt=" Babbi" style="width: 100%; height: 100%;">
+                    <img src="Birthdday/f3.jpg" alt=" Babbi" style="width: 100%; height: 100%;">
                 </div>
             </div>
         </div>
