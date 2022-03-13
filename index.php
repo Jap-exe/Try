@@ -163,7 +163,7 @@
             </div>
             <div class="back">
                 <div id="b4" class="back-content">
-                    <img src="Birthdday/f3.jpg" alt=" Babbi" style="width: 100%; height: 100%;">
+                    <img src="Birthday/f3.jpg" alt=" Babbi" style="width: 100%; height: 100%;">
                 </div>
             </div>
         </div>
