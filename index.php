@@ -21,7 +21,7 @@
             <div class="front">
                 <div id="f1" class="front-content"> 
                     <h1 class="book-title">A Simple FlipBook</h1>
-                    <img class="cover-img" src="f2.jpg" alt="Babbi">
+                    <img class="cover-img" src="Birthday/f2.jpg" alt="Babbi">
                 </div>
             </div>
             <!---paper 2-->
