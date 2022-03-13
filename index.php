@@ -7,7 +7,7 @@
     <title>Happy Birthday Babbi</title>
     <link rel="stylesheet" href="./Birthday/style.css">
     <script src="https://kit.fontawesome.com/b0f29e9bfe.js" crossorigin="anonymous"></script>
-    <script defer src="Birthday/main.js"></script>
+    <script defer src="./Birthday/main.js"></script>
 </head>
 <body>
     <button id="prev-btn">
@@ -59,12 +59,12 @@
             <div class="front">
                 <div id="f2" class="front-content">
                     
-                    <img src="J1.gif" alt="Girl in a jacket" style="width:100%;height:100%;">
+                    <img src="./Birthday/J1.gif" alt="Girl in a jacket" style="width:100%;height:100%;">
                 </div>
             </div>
             <div class="back">
                 <div id="b2" class="back-content">
-                    <img src="f4.jpg" alt="Babbi" style="width:100%; height: 100%;">
+                    <img src="./Birthday/f4.jpg" alt="Babbi" style="width:100%; height: 100%;">
 
                 </div>
             </div>
@@ -158,12 +158,12 @@
          <div id="p4" class="paper">
             <div class="front">
                 <div id="f4" class="front-content">
-            <img src="f5.gif" alt=" Babbi" style="width: 100%; height: 100%;">
+            <img src="./Birthday/f5.gif" alt=" Babbi" style="width: 100%; height: 100%;">
                 </div>
             </div>
             <div class="back">
                 <div id="b4" class="back-content">
-                    <img src="f3.jpg" alt=" Babbi" style="width: 100%; height: 100%;">
+                    <img src="./Birthdday/f3.jpg" alt=" Babbi" style="width: 100%; height: 100%;">
                 </div>
             </div>
         </div>
