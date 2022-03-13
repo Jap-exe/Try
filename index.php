@@ -59,7 +59,7 @@
             <div class="front">
                 <div id="f2" class="front-content">
                     
-                    <img src="./Birthday/J1.gif" alt="Girl in a jacket" style="width:100%;height:100%;">
+                    <img src="Birthday/J1.gif" alt="Girl in a jacket" style="width:100%;height:100%;">
                 </div>
             </div>
             <div class="back">
