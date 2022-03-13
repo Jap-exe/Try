@@ -7,7 +7,7 @@
     <title>Happy Birthday Babbi</title>
     <link rel="stylesheet" href="./style.css">
     <script src="https://kit.fontawesome.com/b0f29e9bfe.js" crossorigin="anonymous"></script>
-    <script defer src="./main.js"></script>
+    <script defer src="Birthday/main.js"></script>
 </head>
 <body>
     <button id="prev-btn">
