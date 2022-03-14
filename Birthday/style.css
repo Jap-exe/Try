@@ -160,17 +160,17 @@ p{
 }
 #f5 p{
       font-size:20vw;
-    color: red;
+    color: black;
     text-align: center;
 }
 #f3 p{
-    color: rgb(4, 0, 255);
+    color: black;
     text-align: center;
     font-size: 16px;
 }
 
 #b3 p{
-    color: blueviolet;
+    color: black;
     text-align: center;
     font-size: 13vw;
 }
