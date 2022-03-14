@@ -159,7 +159,7 @@ p{
     font-size: 15px;
 }
 #f5 p{
-      font-size:20px;
+      font-size:20vw;
     color: red;
     text-align: center;
 }
@@ -172,5 +172,5 @@ p{
 #b3 p{
     color: blueviolet;
     text-align: center;
-    font-size: 13px;
+    font-size: 13vw;
 }
